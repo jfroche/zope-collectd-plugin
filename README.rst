@@ -41,6 +41,6 @@ Zope config
 
 For Zope 2, you will need the following packages:
 
-  -``five.z2monitor`` (http://pypi.python.org/pypi/five.z2monitor)
-  - Products.ZNagios (http://pypi.python.org/pypi/Products.ZNagios)
-  - zc.z3monitor (http://pypi.python.org/pypi/zc.z3monitor)
+ - ``five.z2monitor`` (http://pypi.python.org/pypi/five.z2monitor)
+ - Products.ZNagios (http://pypi.python.org/pypi/Products.ZNagios)
+ - zc.z3monitor (http://pypi.python.org/pypi/zc.z3monitor)
